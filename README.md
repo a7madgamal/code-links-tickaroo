@@ -1,4 +1,4 @@
-# code-links package
+# same code as code-links package + few dirty hacks
 
 :rotating_light: Deprecated :rotating_light: 
 ==========

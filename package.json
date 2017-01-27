@@ -1,9 +1,9 @@
 {
-  "name": "code-links",
+  "name": "code-links-tickaroo",
   "main": "./lib/code-links",
-  "version": "0.4.0",
-  "description": "Provides the ability to ctrl+click around your project.",
-  "repository": "https://github.com/AsaAyers/code-links",
+  "version": "1.0.0",
+  "description": "Provides the ability to ctrl+click around your project. (private hack for tickaroo, use 'code-links' instead)",
+  "repository": "https://github.com/a7madgamal/code-links-tickaroo",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
